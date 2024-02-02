@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS.csproj": {}
+  },
+  "projects": {
+    "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS.csproj",
+        "projectName": "CAPA DATOS - VISOR AEROPUERTOS",
+        "projectPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS.csproj": {
+                "projectPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS.csproj",
+        "projectName": "CAPA ENTIDADES - VISOR AEROPUERTOS",
+        "projectPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS.csproj",
+        "projectName": "CAPA LOGICA  - VISOR AEROPUERTOS",
+        "projectPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS.csproj": {
+                "projectPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS\\CAPA DATOS - VISOR AEROPUERTOS.csproj"
+              },
+              "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS.csproj": {
+                "projectPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS\\CAPA ENTIDADES - VISOR AEROPUERTOS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS.csproj",
+        "projectName": "CAPA PRESENTACION - VISOR AEROPUERTOS",
+        "projectPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS.csproj": {
+                "projectPath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS\\CAPA LOGICA  - VISOR AEROPUERTOS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

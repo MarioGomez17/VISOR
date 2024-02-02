@@ -1,0 +1,168 @@
+﻿@{
+    ViewData["Title"] = "REGISTRAR VUELO";
+}
+@model CAPA_ENTIDADES___VISOR_AEROPUERTOS.CLASES.PaisesBE;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- LEAFLET -->
+    <script src=" https://unpkg.com/leaflet@1.6.0/dist/leaflet.js "></script>
+    <link rel="stylesheet" href=" https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+    <!-- JQUERY -->
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+    <!-- MARKER CLUSTER-->
+    <script src="~/PLUGINS/MARKER_CLUSTER/dist/leaflet.markercluster.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="~/PLUGINS/MARKER_CLUSTER/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="~/PLUGINS/MARKER_CLUSTER/dist/MarkerCluster.Default.css" />
+    <!-- BUSCADOR -->
+    <script src="~/PLUGINS/BUSCADOR/src/leaflet-search.js"></script>
+    <link rel="stylesheet" href="~/PLUGINS/BUSCADOR/src/leaflet-search.css" />
+    <!--MINI MAPA-->
+    <script src="~/PLUGINS/MINI_MAPA/src/Control.MiniMap.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="~/PLUGINS/MINI_MAPA/src/Control.MiniMap.css" />
+    <!--CONTROL DE CAPAS-->
+    <script src="~/PLUGINS/CONTROL_CAPAS/src/styledLayerControl.js"></script>
+    <link rel="stylesheet" href="~/PLUGINS/CONTROL_CAPAS/css/styledLayerControl.css" />
+    <!-- ESTILOS-->
+    <link rel="stylesheet" href="~/css/Estilos.css" asp-append-version="true" />
+    <title>VISOR AEROPUERTOS</title>
+    <!-- FUENTES -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geologica&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="Contenido">
+        <div class="Mapa" id="Mapa">
+            <button class="BtnReporte" id="BtnReporte" onclick="AbrirReporte()">
+                <p class="paragraph"> Reporte </p>
+                <span class="icon-wrapper-Reporte">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clipboard-data" width="32" height="32" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                        <path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2" />
+                        <path d="M9 3m0 2a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v0a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2z" />
+                        <path d="M9 17v-4" />
+                        <path d="M12 17v-1" />
+                        <path d="M15 17v-2" />
+                        <path d="M12 17v-1" />
+                    </svg>
+                </span>
+            </button>
+            
+        </div>
+    </div>
+    
+    <div class="DivFormulario" id="DivFormulario">
+        <button class="BtnCerrar" onclick="CerrarFormulario()">
+            <p class="paragraph"> cerrar </p>
+            <span class="icon-wrapper">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-square-rounded-x" width="32"
+                     height="32" viewBox="0 0 24 24" stroke-width="3" stroke="#ff0000" fill="none" stroke-linecap="round"
+                     stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path d="M10 10l4 4m0 -4l-4 4" />
+                    <path d="M12 3c7.2 0 9 1.8 9 9s-1.8 9 -9 9s-9 -1.8 -9 -9s1.8 -9 9 -9z" />
+                </svg>
+            </span>
+        </button>
+        <div class="Aeropuertos">
+            <div class="Animacion">
+                <div class="AvionIcono">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="#FFFFFF" class="w-5 h-5">
+                        <path d="M3.105 2.289a.75.75 0 00-.826.95l1.414 4.925A1.5 1.5 0 005.135 9.25h6.115a.75.75 0 010 1.5H5.135a1.5 1.5 0 00-1.442 1.086l-1.414 4.926a.75.75 0 00.826.95 28.896 28.896 0 0015.293-7.154.75.75 0 000-1.115A28.897 28.897 0 003.105 2.289z" />
+                    </svg>
+                </div>
+            </div>
+            <div class="Fotos">
+                <div id="InfoAeropuertoSalida" class="InfoAeropuerto">
+                    <div class="FotoAeropuerto" id="DivFotoAeropuertoSalida"></div>
+                    <h3>SALIDA</h3>
+                    <span id="PaisAeropuertoSalida"></span>
+                    <span id="CiudadAeropuertoSalida"></span>
+                    <span id="NombreAeropuertoSalida"></span>
+                </div>
+                <div id="InfoAeropuertoLlegada" class="InfoAeropuerto">
+                    <div class="FotoAeropuerto" id="DivFotoAeropuertoLlegada"></div>
+                    <h3>DESTINO</h3>
+                    <span id="PaisAeropuertoLlegada">Pais: </span>
+                    <span id="CiudadAeropuertoLlegada">Ciudad: </span>
+                    <span id="NombreAeropuertoLlegada">Aeropuerto: </span>
+                </div>
+
+            </div>
+        </div>
+        <div class="FormularioRegistro">
+            <form method="post" action="/Principal/RegistrarReporte" class="Formulario" id="Formulario">
+                <div class="DivForm">
+                    <div class="inputBox">
+                        <input required="" type="text" name="NombreUsuario" class="NombreUsuario Duo" id="NombreUsuario" />
+                        <label for="NombreUsuario">Nombre</label>
+                    </div>
+                    <div class="inputBox">
+                        <input required="" type="text" name="ApellidoUsuario" class="ApellidoUsuario Duo" id="ApellidoUsuario" />
+                        <label for="ApellidoUsuario">Apellido</label>
+                    </div>
+                </div>
+                <div class="DivForm">
+                    <div class="inputBox">
+                        <input required="" type="text" name="IdentificacionUsuario" class="IdentificacionUsuario Duo" id="IdentificacionUsuario" />
+                        <label for="IdentificacionUsuario">Identificación</label>
+                    </div>
+                    <div class="inputBox">
+                        <input required="" type="text" name="TelefonoUsuario" class="TelefonoUsuario Duo" id="TelefonoUsuario" />
+                        <label for="TelefonoUsuario">Teléfono</label>
+                    </div>
+                </div>
+                <div class="DivForm">
+                    <div class="inputBox">
+                        <input required="" type="text" name="CorreoUsuario" class="CorreoUsuario Solo" id="CorreoUsuario" />
+                        <label for="CorreoUsuario">Correo</label>
+                    </div>
+                </div>
+                <div class="DivForm">
+                    <div class="inputBox">
+                        <input required="" type="datetime-local" name="FechaIdaUsuario" class="FechaIdaUsuario Duo" id="FechaIdaUsuario" min="@ViewBag.FechaMinimaSalida" />
+                        <label for="FechaIdaUsuario">Fecha de Salida</label>
+                    </div>
+                    <div class="inputBox">
+                        <input required="" type="datetime-local" name="FechaRegresoUsuario" class="FechaRegresoUsuario Duo" id="FechaRegresoUsuario" min="@ViewBag.FechaMinimoRegreso" />
+                        <label for="FechaRegresoUsuario">Fecha de Regreso</label>
+                    </div>
+                </div>
+                <div class="DivForm">
+                    <input required="" type="hidden" id="IdAeropuertoSalida" name="IdAeropuertoSalida" />
+                </div>
+                <div class="DivForm">
+                    <select id="PaisLlegada" onchange="TraerCiudadesLleada()" class="PaisLlegada">
+                        <option value="0" selected disabled>SELECCIONAR PAÍS</option>
+                        @if (Model.Paises != null)
+                        {
+                            @foreach (var Pais in Model.Paises)
+                            {
+                                <option value="@Pais">@Pais</option>
+                            }
+                        }
+                    </select>
+                </div>
+                <div class="DivForm">
+                    <select id="CiudadLlegada" onchange="TraerAeropuertosLleada()" class="CiudadLlegada">
+                        <option value="0" selected>SELECCIONAR CIUDAD</option>
+                    </select>
+                </div>
+                <div class="DivForm">
+                    <select id="AeropuertoLlegada" name="IdAeropuertoLlegada" class="AeropuertoLlegada" onchange="TraerFoto()">
+                        <option value="0" selected>SELECCIONAR AEROPUERTO</option>
+                    </select>
+                </div>
+                <div class="DivForm">
+                    <button class="BtnEnviar" type="submit">ENVIAR</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="~/js/SCRIPT.js"></script>
+</body>
+</html>

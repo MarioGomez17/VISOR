@@ -1,0 +1,62 @@
+﻿@model CAPA_ENTIDADES___VISOR_AEROPUERTOS.CLASES.Reportes;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>REPORTE AEROPUERTOS</title>
+    <!-- FUENTES -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geologica&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/Reporte.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="Contenido">
+        <div class="ContenidoReportes">
+            <div class="Titulo">
+                <h1>Reporte de vuelos solicitados</h1>
+            </div>
+            @if (Model.ReportesVista != null)
+            {
+                @foreach (var Reporte in Model.ReportesVista)
+                {
+                    <div class="Reporte">
+                        <div class="InfoUsuario">
+                            <h3>Nombre</h3>
+                            <span>@Reporte.NombreUsuario</span>
+                            <h3>Apellido</h3>
+                            <span>@Reporte.ApellidoUsuario</span>
+                            <h3>Identificación</h3>
+                            <span>@Reporte.IdentificacionUsuario</span>
+                            <h3>Teléfono</h3>
+                            <span>@Reporte.TelefonoUsuario</span>
+                            <h3>Correo</h3>
+                            <span>@Reporte.CorreoUsuario</span>
+                            <h3>Fecha de Salida</h3>
+                            <span>@Reporte.FechaSalidaUsuario</span>
+                            <h3>Fecha de Regreso</h3>
+                            <span>@Reporte.FechaRegresoUsuario</span>
+                        </div>
+                        <div class="InfoAeropuertos">
+                            <div class="InfoAeropuertoSalida">
+                                <h3>Pais Salida: <span>@Reporte.PaisAeropuertoSalida</span></h3>
+                                <h3>Ciudad Salida: <span>@Reporte.CiudadAeropuertoSalida</span></h3>
+                                <h3>Aeropuerto Salida: <span>@Reporte.NombreAeropuertoSalida</span></h3>
+                                <img class="Foto" src=@Reporte.FotoAeropuertoSalida alt="Foto del Aeropuerto de Salida" />
+                            </div>
+                            <div class="InfoAeropuertoLlegada">
+                                <h3>Pais Llegada: <span>@Reporte.PaisAeropuertoLlegada</span></h3>
+                                <h3>Ciudad Llegada: <span>@Reporte.CiudadAeropuertoLlegada</span></h3>
+                                <h3>Aeropuerto Llegada: <span>@Reporte.NombreAeropuertoLlegada</span></h3>
+                                <img class="Foto" src=@Reporte.FotoAeropuertoLlegada alt="Foto del Aeropuerto de Llegada" />
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</body>
+</html>

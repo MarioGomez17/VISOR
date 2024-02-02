@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5NFS/9/4ZCSCYMTnin4ma6SeWolif8rtuO8Gs3pjIVA4sQYVt2anjaR6BF6Cvwa0FCeCaq8fK2CUWRmFE4n0A==",
+  "success": true,
+  "projectFilePath": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\npgsql\\8.0.0\\npgsql.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

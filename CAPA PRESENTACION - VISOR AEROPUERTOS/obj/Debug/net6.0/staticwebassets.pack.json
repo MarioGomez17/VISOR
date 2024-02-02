@@ -1,0 +1,1237 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\.eslintrc",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\.eslintrc"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\.gitignore",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\.gitignore"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\Gruntfile.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\README.md",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\README.md"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\TODO",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.min.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.min.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.mobile.min.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.mobile.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.mobile.src.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.mobile.src.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.src.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.src.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.src.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\dist\\leaflet-search.src.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\ajax-jquery.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\ajax-jquery.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\ajax.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\ajax.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\custom-source-data.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\custom-source-data.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\custom-tip.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\custom-tip.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\bar.geojson.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\bar.geojson.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\cities15000.json",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\cities15000.json"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\cities15000.raw.txt",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\cities15000.raw.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\colors.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\colors.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\csv2json.php",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\csv2json.php"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\custom-icon.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\custom-icon.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\htmlcolors.txt",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\htmlcolors.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\pharmacy.geojson.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\pharmacy.geojson.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\restaurant.geojson.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\restaurant.geojson.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\restaurant500.geojson.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\restaurant500.geojson.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\data\\us-states.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\data\\us-states.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\fuzzy.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\fuzzy.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\geocoder.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\geocoder.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\geocoding-google.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\geocoding-google.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\geocoding-nominatim.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\geocoding-nominatim.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\geojson-layer.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\geojson-layer.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\jsonp-filtered.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\jsonp-filtered.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\jsonp.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\jsonp.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\location-url.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\location-url.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\methods.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\methods.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\mobile.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\mobile.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\mobile.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\mobile.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\multiple-layers.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\multiple-layers.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\multiple-results.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\multiple-results.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\nominatim.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\nominatim.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\outside.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\outside.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\popup.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\popup.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\requirejs.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\requirejs.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\search.php",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\search.php"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\simple.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\simple.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\style.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\style.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\examples\\tests.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\examples\\tests.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\images\\back.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\images\\back.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\images\\leaflet-search.jpg",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\images\\leaflet-search.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\images\\loader.gif"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\images\\search-icon-mobile.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\images\\search-icon-mobile.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\images\\search-icon.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\index.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\index.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\license.txt",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\license.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\package-lock.json",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\package-lock.json"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\package.json",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\package.json"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\src\\leaflet-search-geocoder.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\src\\leaflet-search-geocoder.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\src\\leaflet-search.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\src\\leaflet-search.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\src\\leaflet-search.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\src\\leaflet-search.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\BUSCADOR\\src\\leaflet-search.mobile.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\BUSCADOR\\src\\leaflet-search.mobile.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\LICENSE",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\README.md",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\README.md"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-Black.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-Black.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-Bold.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-Bold.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-Italic.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-Italic.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-Regular.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Alegreya-Regular.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\BebasNeue-webfont.eot",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\BebasNeue-webfont.eot"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\BebasNeue-webfont.svg",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\BebasNeue-webfont.svg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\BebasNeue-webfont.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\BebasNeue-webfont.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\BebasNeue-webfont.woff",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\BebasNeue-webfont.woff"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Dharma Type Font License.txt",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Dharma Type Font License.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Italic.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Italic.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\fonts\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\images\\arrow_down.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\images\\arrow_down.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\images\\arrow_up.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\images\\arrow_up.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\images\\bgnoise_lg.jpg",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\images\\bgnoise_lg.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\images\\check.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\images\\check.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\images\\delete.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\images\\delete.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\images\\layers.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\images\\layers.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\css\\styledLayerControl.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\css\\styledLayerControl.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\examples\\StyledLayerControl-example.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\examples\\StyledLayerControl-example.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\examples\\example1.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\examples\\example1.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\examples\\example2.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\examples\\example2.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\examples\\plugins\\Bing.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\examples\\plugins\\Bing.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\CONTROL_CAPAS\\src\\styledLayerControl.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\CONTROL_CAPAS\\src\\styledLayerControl.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\.gitignore",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\.gitignore"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\.travis.yml",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\.travis.yml"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\Jakefile.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\Jakefile.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\MIT-LICENCE.txt",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\MIT-LICENCE.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\README.md",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\README.md"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\bower.json",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\bower.json"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\build\\hintrc.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\build\\hintrc.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\build\\rollup-config.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\build\\rollup-config.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\dist\\MarkerCluster.Default.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\dist\\MarkerCluster.Default.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\dist\\MarkerCluster.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\dist\\MarkerCluster.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\dist\\WhereAreTheJavascriptFiles.txt",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\dist\\WhereAreTheJavascriptFiles.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\dist\\leaflet.markercluster-src.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\dist\\leaflet.markercluster-src.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\dist\\leaflet.markercluster-src.js.map",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\dist\\leaflet.markercluster-src.js.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\dist\\leaflet.markercluster.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\dist\\leaflet.markercluster.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\dist\\leaflet.markercluster.js.map",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\dist\\leaflet.markercluster.js.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\geojson-sample.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\geojson-sample.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\geojson.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\geojson.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\map.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\map.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-convexhull.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-convexhull.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-custom.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-custom.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-dragging.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-dragging.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-everything.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-everything.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-geojson.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-geojson.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-pane.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-pane.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld-maxzoom.388.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld-maxzoom.388.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld-mobile.388.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld-mobile.388.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld.10000.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld.10000.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld.388.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld.388.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld.50000.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-realworld.50000.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-singlemarkermode.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-singlemarkermode.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-spiderfier.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-spiderfier.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-zoomtobounds.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-zoomtobounds.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-zoomtoshowlayer.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering-zoomtoshowlayer.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\marker-clustering.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\mobile.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\mobile.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\add-1000-after.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\add-1000-after.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\add-markers-offscreen.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\add-markers-offscreen.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\add-remove-before-addtomap.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\add-remove-before-addtomap.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\animationless-zoom.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\animationless-zoom.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\click-cluster-at-screen-edge.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\click-cluster-at-screen-edge.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\disappearing-marker-from-spider.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\disappearing-marker-from-spider.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\doesnt-update-cluster-on-bottom-level.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\doesnt-update-cluster-on-bottom-level.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\drag-with-spiderfying.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\drag-with-spiderfying.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\remove-add-clustering.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\remove-add-clustering.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\remove-when-spiderfied.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\remove-when-spiderfied.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\removelayer-after-remove-from-map.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\removelayer-after-remove-from-map.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\setView-doesnt-remove.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\setView-doesnt-remove.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\zoomtoshowlayer-doesnt-need-to-zoom.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\zoomtoshowlayer-doesnt-need-to-zoom.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\zoomtoshowlayer-doesnt-zoom-if-centered-on.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\old-bugs\\zoomtoshowlayer-doesnt-zoom-if-centered-on.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\realworld.10000.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\realworld.10000.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\realworld.388.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\realworld.388.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\realworld.50000.1.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\realworld.50000.1.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\realworld.50000.2.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\realworld.50000.2.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\remove-geoJSON-when-spiderfied.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\remove-geoJSON-when-spiderfied.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\example\\screen.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\example\\screen.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\package.json",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\package.json"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\after.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\after.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\expect.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\expect.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\index.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\index.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\karma.conf.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\karma.conf.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\sinon.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\sinon.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\AddLayer.MultipleSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\AddLayer.MultipleSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\AddLayer.SingleSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\AddLayer.SingleSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\AddLayersSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\AddLayersSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\ChildChangingIconSupportSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\ChildChangingIconSupportSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\CircleMarkerSupportSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\CircleMarkerSupportSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\CircleSupportSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\CircleSupportSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\DistanceGridSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\DistanceGridSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\LeafletSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\LeafletSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\NonPointSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\NonPointSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\PaneSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\PaneSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\QuickHullSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\QuickHullSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\RefreshSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\RefreshSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\RememberOpacity.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\RememberOpacity.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\RemoveLayerSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\RemoveLayerSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\SpecHelper.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\SpecHelper.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\animateOptionSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\animateOptionSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\clearLayersSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\clearLayersSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\disableClusteringAtZoomSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\disableClusteringAtZoomSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\eachLayerSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\eachLayerSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\eventsSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\eventsSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\getBoundsSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\getBoundsSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\getLayersSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\getLayersSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\getVisibleParentSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\getVisibleParentSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\markerMoveSupportSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\markerMoveSupportSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\nonIntegerZoomSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\nonIntegerZoomSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\onAddSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\onAddSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\onRemoveSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\onRemoveSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\removeLayersSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\removeLayersSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\removeOutsideVisibleBoundsSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\removeOutsideVisibleBoundsSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\singleMarkerModeSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\singleMarkerModeSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\spiderfySpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\spiderfySpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\supportNegativeZoomSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\supportNegativeZoomSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\unspiderfySpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\unspiderfySpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\zoomAnimationSpec.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\spec\\suites\\zoomAnimationSpec.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\src\\DistanceGrid.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\src\\DistanceGrid.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerCluster.QuickHull.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerCluster.QuickHull.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerCluster.Spiderfier.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerCluster.Spiderfier.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerCluster.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerCluster.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerClusterGroup.Refresh.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerClusterGroup.Refresh.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerClusterGroup.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerClusterGroup.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerOpacity.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\src\\MarkerOpacity.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MARKER_CLUSTER\\src\\index.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MARKER_CLUSTER\\src\\index.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\.gitignore",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\.gitignore"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\.travis.yml",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\.travis.yml"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\bower.json",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\bower.json"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\buildscripts\\svgtopng.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\buildscripts\\svgtopng.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\dist\\Control.MiniMap.min.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\dist\\Control.MiniMap.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\dist\\Control.MiniMap.min.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\dist\\Control.MiniMap.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\dist\\images\\toggle.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\dist\\images\\toggle.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\dist\\images\\toggle.svg",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\dist\\images\\toggle.svg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_customRects.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_customRects.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_differentminimised.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_differentminimised.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_dist.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_dist.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_events.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_events.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_fixedcenter.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_fixedcenter.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_fixedview.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_fixedview.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_fixedzoom.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_fixedzoom.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_i18n.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_i18n.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_larger.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_larger.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_layerchange.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_layerchange.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_layergroup.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_layergroup.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_lowzoom.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_lowzoom.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_startminimised.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_startminimised.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_toggleDisplay.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_toggleDisplay.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\example_topleft.html",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\example_topleft.html"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\fullscreen.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\fullscreen.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\example\\local_pubs_restaurant_norway.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\example\\local_pubs_restaurant_norway.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\package.json",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\package.json"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\readme.md",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\readme.md"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\src\\Control.MiniMap.css",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\src\\Control.MiniMap.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\src\\Control.MiniMap.js",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\src\\Control.MiniMap.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\src\\images\\toggle.png",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\src\\images\\toggle.png"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\PLUGINS\\MINI_MAPA\\src\\images\\toggle.svg",
+      "PackagePath": "staticwebassets\\PLUGINS\\MINI_MAPA\\src\\images\\toggle.svg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\css\\Estilos.css",
+      "PackagePath": "staticwebassets\\css\\Estilos.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\css\\Reporte.css",
+      "PackagePath": "staticwebassets\\css\\Reporte.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\js\\SCRIPT.js",
+      "PackagePath": "staticwebassets\\js\\SCRIPT.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\UNIVERSIDAD\\LINEA B - SIG 2\\VISOR AEROPUERTOS\\CAPA PRESENTACION - VISOR AEROPUERTOS\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CAPA PRESENTACION - VISOR AEROPUERTOS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CAPA PRESENTACION - VISOR AEROPUERTOS.props",
+      "PackagePath": "build\\CAPA PRESENTACION - VISOR AEROPUERTOS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CAPA PRESENTACION - VISOR AEROPUERTOS.props",
+      "PackagePath": "buildMultiTargeting\\CAPA PRESENTACION - VISOR AEROPUERTOS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CAPA PRESENTACION - VISOR AEROPUERTOS.props",
+      "PackagePath": "buildTransitive\\CAPA PRESENTACION - VISOR AEROPUERTOS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

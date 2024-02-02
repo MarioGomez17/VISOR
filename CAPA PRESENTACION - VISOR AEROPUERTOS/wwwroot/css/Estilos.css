@@ -1,0 +1,495 @@
+﻿*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    text-transform: uppercase;
+    font-family: 'Geologica', sans-serif;
+}
+
+.Contenido {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#Mapa {
+    width: 100%;
+    height: 100vh;
+    box-shadow: 5px 5px 5px #000;
+}
+
+.DivFormulario {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #000000;
+    padding: 0;
+    width: 100rem;
+    height: 70rem;
+    z-index: 1000;
+    border-radius: 15px;
+    border: solid 5px #FFFFFF;
+}
+.XDDD {
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    z-index: 100000;
+}
+.BtnReporte {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border: none;
+    position: absolute;
+    left: 10px;
+    top: 150px;
+    border-radius: 10px;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;
+    transition-delay: .2s;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: space-between;
+    margin: 0;
+    border: solid 5px black;
+    z-index: 1000;
+}
+
+    .BtnReporte span{
+        transform: translateX(-114px);
+    }
+
+    .BtnReporte:hover {
+        width: 150px;
+        transition-delay: .2s;
+        background-color: #09F2C8;
+    }
+
+        .BtnReporte:hover > .paragraph {
+            visibility: visible;
+            opacity: 1;
+            -webkit-transition-delay: .4s;
+            transition-delay: .4s;
+            color: black;
+        }
+
+        .BtnReporte:hover > span {
+            transition: 1s;
+            transform: translateX(-14px);
+        }
+
+        
+
+.BtnCerrar {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border: none;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    border-radius: 10px;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;
+    transition-delay: .2s;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: space-between;
+    margin: 0;
+}
+
+    .BtnCerrar:hover {
+        width: 150px;
+        transition-delay: .2s;
+        background-color: red;
+    }
+
+        .BtnCerrar:hover > .paragraph {
+            visibility: visible;
+            opacity: 1;
+            -webkit-transition-delay: .4s;
+            transition-delay: .4s;
+        }
+
+        .BtnCerrar:hover span svg {
+            stroke: white;
+        }
+
+.paragraph {
+    color: white;
+    visibility: hidden;
+    opacity: 0;
+    font-size: 18px;
+    margin-right: 20px;
+    padding-left: 10px;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Geologica', sans-serif;
+}
+
+.icon-wrapper {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+span {
+    font-size: 1rem;
+}
+
+.Aeropuertos,
+.FormularioRegistro {
+    width: 100%;
+}
+
+.Fotos {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Animacion {
+    width: 100%;
+    height: 4rem;
+}
+
+.InfoAeropuerto {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: .5rem;
+}
+
+.InfoAeropuerto h3,
+.InfoAeropuerto,
+span {
+    color: #FFFFFF;
+}
+
+.FotoAeropuerto {
+    width: 20rem;
+    height: 10rem;
+    border: solid 5px #09F2C8;
+    border-radius: 5px;
+}
+
+.Formulario {
+    height: 35rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+input,
+button,
+select {
+    margin: .5rem;
+}
+
+h3 {
+    margin: .5rem;
+}
+
+.DivForm {
+    width: 95%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 1rem;
+}
+
+.Solo {
+    width: 100%
+}
+
+.Duo {
+    width: 100%;
+}
+
+.inputBox {
+    position: relative;
+    width: 100%;
+}
+
+.inputBox input {
+    padding: 10px 20px;
+    outline: none;
+    background: transparent;
+    border-radius: 5px;
+    color: #fff;
+    border: 2px solid #09F2C8;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-family: 'Geologica', sans-serif;
+}
+
+.inputBox label {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    padding: 5px 40px;
+    pointer-events: none;
+    font-size: 1em;
+    transition: 0.4s cubic-bezier(0.05, 0.81, 0, 0.93);
+    color: #FFFFFF;
+    letter-spacing: 0.1em;
+    background-color: #000000;
+    font-family: 'Geologica', sans-serif;
+}
+
+.inputBox input:focus~label,
+.inputBox input:valid~label {
+    font-size: .8em;
+    transform: translateX(14px) translateY(-11px);
+    padding: 0 5px;
+    border-radius: 2px;
+    background: #000000;
+    letter-spacing: 0em;
+    border: 1px solid #09F2C8;
+    color: #FFFFFF;
+}
+
+.inputBox input:focus,
+.inputBox input:valid {
+    background: #FFFFFF;
+    color: #000000;
+}
+
+button.BtnEnviar {
+    width: 95%;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    font-family: 'Geologica', sans-serif;
+    font-size: 2.5rem;
+}
+
+button.BtnEnviar {
+    font-weight: 600;
+    color: #000000;
+    text-transform: uppercase;
+    padding: .5rem 2rem;
+    background: #09F2C8;
+    border: 3px solid #079C82;
+    border-radius: 0.75em;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-transition: background 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+    transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+
+button.BtnEnviar::before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 75%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #B7F4E9;
+    border-radius: inherit;
+    -webkit-transform: translate3d(0, 0.75em, -1em);
+    transform: translate3d(0, 0.75em, -1em);
+    transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1),
+        -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
+}
+
+button.BtnEnviar:hover {
+    -webkit-transform: translate(0, 0.25em);
+    transform: translate(0, 0.25em);
+}
+
+button.BtnEnviar:hover::before {
+    -webkit-transform: translate3d(0, 0.5em, -1em);
+    transform: translate3d(0, 0.5em, -1em);
+}
+
+button.BtnEnviar:active {
+    background: #ffe9e9;
+    -webkit-transform: translate(0em, 0.75em);
+    transform: translate(0em, 0.75em);
+}
+
+button.BtnEnviar:active::before {
+    -webkit-box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+    box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+    -webkit-transform: translate3d(0, 0, -1em);
+    transform: translate3d(0, 0, -1em);
+}
+
+select {
+    padding: 1rem;
+    border-radius: 10px;
+    border: solid 3px #09F2C8;
+    width: 80%;
+    font-family: 'Geologica', sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.AvionIcono {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 27rem;
+    animation: fly 8s linear infinite;
+}
+
+@keyframes fly {
+    0% {
+        transform: translateX(0) translateY(0);
+    }
+
+    5% {
+        transform: translateX(0) translateY(-14%);
+    }
+
+    10% {
+        transform: translateX(82.5%) translateY(-28%);
+    }
+
+    15% {
+        transform: translateX(165%) translateY(-42%);
+    }
+
+    20% {
+        transform: translateX(247.5%) translateY(-56%);
+    }
+
+    25% {
+        transform: translateX(330%) translateY(-70%);
+    }
+
+    30% {
+        transform: translateX(412.5%) translateY(-56%);
+    }
+
+    35% {
+        transform: translateX(495%) translateY(-42%);
+    }
+
+    40% {
+        transform: translateX(577.5%) translateY(-28%);
+    }
+
+    45% {
+        transform: translateX(660%) translateY(-14%);
+    }
+
+    50% {
+        transform: translateX(660%) translateY(0%) rotateY(180deg);
+    }
+
+    55% {
+        transform: translateX(660%) translateY(-14%) rotateY(180deg);
+    }
+
+    60% {
+        transform: translateX(577.5%) translateY(-28%) rotateY(180deg);
+    }
+
+    65% {
+        transform: translateX(495%) translateY(-42%) rotateY(180deg);
+    }
+
+    70% {
+        transform: translateX(412.5%) translateY(-56%) rotateY(180deg);
+    }
+
+    75% {
+        transform: translateX(330%) translateY(-70%) rotateY(180deg);
+    }
+
+    80% {
+        transform: translateX(247.5%) translateY(-56%) rotateY(180deg);
+    }
+
+    85% {
+        transform: translateX(165%) translateY(-42%) rotateY(180deg);
+    }
+
+    90% {
+        transform: translateX(82.5%) translateY(-28%) rotateY(180deg);
+    }
+
+    95% {
+        transform: translateX(0) translateY(-14%) rotateY(180deg);
+    }
+
+    100% {
+        transform: translateX(0) translateY(0);
+    }
+}
+
+h1 {
+    color: black;
+    background-color: #09F2C8;
+    padding: 15px;
+    border-radius: 10px;
+    border: solid 4px white;
+    font-family: 'Geologica', sans-serif;
+}
+
+.Leyenda {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #09F2C8;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: solid 4px black;
+}
+
+    .Leyenda span {
+        font-family: 'Geologica', sans-serif;
+        font-weight: bold;
+        font-size: 15px;
+        margin: 5px;
+        color: black;
+    }
